@@ -7,7 +7,6 @@ gem 'rails', '4.2.4'
 # Use pg as the database for Active Record
 gem 'sqlite3', group: [:development, :test]
 
-gem 'pg'
 
 # Use postgresql as the database for production
 group :production do
